@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ragavendran
-- 👀 I’m a python developer
-- 🌱 I’m developing python skills
+- 👀 I’m a ML / AI Developer
 
 <!---
 Ragavendran001/Ragavendran001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
